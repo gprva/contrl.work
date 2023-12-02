@@ -40,3 +40,13 @@ li{
 .block_1{
     background: #605c5c;
 }
+.sm_img_gallery{
+    padding: 30px ;
+
+}
+.sm_img_gallery_1{
+    padding: 30px 0 ;
+}
+.all_sm_gallery{
+    display: flex;
+}
