@@ -65,3 +65,59 @@ font-weight: 400;
 line-height: normal;
 text-align: center;
 }
+
+.cook_h2{
+    color: #D67E34;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+padding: 107px;
+}
+.cards_cook{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    padding: 0 32px;
+}
+
+
+.grey_block{
+    background: gray;
+}
+.grey_block_p_tit{
+    color: #000;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: normal;
+width: 920px;
+height: 52px;
+}
+.grey_block_img{
+    text-align: center;
+    border-radius: 50%;
+}
+.grey_block_h3{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+text-align: center;
+}
+.grey_block_p{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
