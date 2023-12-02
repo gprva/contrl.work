@@ -1,0 +1,15 @@
+/* .header_ic1{
+    background-image: url(/img/header_ic1.jpg);
+} */
+.header{
+    display: flex;
+}
+.menu{
+    display: flex;
+}
+li{
+    padding: 0 20px;
+    list-style: none;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
