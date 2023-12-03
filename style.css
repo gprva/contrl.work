@@ -133,6 +133,14 @@ height: 5px;
 display: block;
 margin: 26px 2px;
 }
+.grey_ic_3{
+    border: 2px solid #FF7400;
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+    display: block;
+    margin: 26px 2px;
+    }
 .grey_ic{
     display: flex;
     justify-content: center;
