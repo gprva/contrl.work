@@ -99,8 +99,11 @@ text-align: center;
 padding: 104px 260px 14px;
 
 }
-.grey_block_img{
+.all_grey_block_img{
     text-align: center;
+
+}
+.grey_block_img{
     border-radius: 50%;
 }
 .grey_block_h3{
