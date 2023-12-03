@@ -275,7 +275,7 @@ text-align: center;
 padding:132px 0  132px;
 }
 .block_4{
-    background: url(/img/block_4.jpg);
+    background: url(/img/block_4.jpg) ;
 }
 .all_block_4{
     display: flex;
@@ -306,3 +306,5 @@ line-height: normal;
 .block_4_txt{
     padding: 80px 165px;
 }
+
+
