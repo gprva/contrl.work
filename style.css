@@ -337,3 +337,12 @@ padding: 0 166px ;
 .history_block{
     padding: 0 247px;
 }
+.history_card_p1{
+    color: #BC9060;
+text-align: center;
+font-family: Open Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
