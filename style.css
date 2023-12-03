@@ -248,6 +248,7 @@ margin-bottom: 20px;
 .food_block{
     display: flex;
     justify-content: center;
+    padding: 0 0 152px;
 }
 .food_p{
     color: #000;
@@ -262,4 +263,14 @@ padding: 40px 30px;
     width: calc((100% - 210px) / 3);
     padding: 0 23px;
     margin-bottom: 23px;
+}
+.food_h2{
+    color: #D67E34;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+padding:132px 0  132px;
 }
