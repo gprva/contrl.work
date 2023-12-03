@@ -311,3 +311,15 @@ line-height: normal;
 .all_history{
     display: flex;
 }
+.history_h2{
+    color: #D67E34;
+    font-family: Tinos;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 21px;
+}
+.history_p_tit{
+    
+}
