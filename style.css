@@ -149,3 +149,7 @@ margin: 26px 2px;
     text-align: center;
     padding: 100px;
 }
+
+.menu{
+    background-image: url(/img/all-menu.jpg);
+}
