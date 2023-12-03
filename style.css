@@ -335,7 +335,12 @@ height: 217px;
 padding: 0 166px ;
 }
 .history_block{
-    padding: 0 247px;
+    padding: 0 210px;
+    display: flex;
+    text-align: center;
+}
+.history_card{
+    padding: 0 20px;
 }
 .history_card_p1{
     color: #BC9060;
