@@ -162,6 +162,17 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-.menu_cards{
-    display: flex;
-}
+.menu_cards{ 
+    display: flex; 
+    justify-content: space-between; 
+    flex-wrap: wrap; 
+    padding: 0 24px; 
+} 
+.menu_card{ 
+        width: 48%; 
+        transition: 0.5s; 
+        border: 1px solid var(--Gray,#f6f6f6); 
+        background: #fff; 
+ 
+        margin-top:  20px ; 
+    } 
