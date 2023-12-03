@@ -310,6 +310,7 @@ line-height: normal;
 
 .all_history{
     display: flex;
+    justify-content: space-around;
 }
 
 .history_h2{
@@ -359,4 +360,15 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+
+.history_2_img{
+    position: absolute;
+    left: 600px;
+}
+.history_3_img{
+    position: absolute;
+    left:  900px;
+}
+.history_right{
 }
