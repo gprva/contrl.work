@@ -214,7 +214,7 @@ font-size: 26px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-padding: 16px 91px;
+margin-bottom: 17px;
 }
 .menu_p{
     color: #000;
@@ -224,5 +224,8 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-padding: 17px 62px;
+margin-bottom: 20px;
+}
+.menu_all_txt{
+    text-align: center;
 }
