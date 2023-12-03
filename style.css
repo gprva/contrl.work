@@ -308,3 +308,6 @@ line-height: normal;
 }
 
 
+.all_history{
+    display: flex;
+}
