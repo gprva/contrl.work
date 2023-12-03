@@ -137,3 +137,7 @@ margin: 26px 2px;
     display: flex;
     justify-content: center;
 }
+.finish{
+    text-align: center;
+    padding: 100px;
+}
