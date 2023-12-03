@@ -277,3 +277,17 @@ padding:132px 0  132px;
 .block_4{
     background: url(/img/block_4.jpg);
 }
+.all_block_4{
+    display: flex;
+    justify-content: space-around;
+}
+.block_4_h2{
+    color: #D67E34;
+font-family: Tinos;
+font-size: 52px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 20px;
+}
+
