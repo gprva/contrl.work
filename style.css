@@ -49,6 +49,10 @@ font-size: 14px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+transition: 0.5s;
+}
+.header_a:hover{
+    color: #605c5c;
 }
 .all_btn {
     border: 1px solid #FF7400;
@@ -103,14 +107,12 @@ line-height: normal;
 }
 
 .cook_h2 {
-    color: #D67E34;
-    font-family: Tinos;
-    font-size: 54px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    text-align: center;
-    padding: 107px;
+    color: #000;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 
 .cards_cook {
@@ -294,15 +296,26 @@ padding: 40px 30px;
     padding: 0 23px;
     margin-bottom: 23px;
 }
+.txt_tit{
+    display: flex;
+justify-content: center;
+}
 .food_h2{
+    color: #000;
+    font-family: Tinos;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.food_h2_2{
     color: #D67E34;
-font-family: Tinos;
-font-size: 54px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-text-align: center;
-padding:132px 0  132px;
+    font-family: Tinos;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 10px;
 }
 .block_4{
     background: url(/img/block_4.jpg) ;
@@ -344,14 +357,12 @@ line-height: normal;
 }
 
 .history_h2{
-    color: #D67E34;
-    font-family: Tinos;
-    font-size: 54px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-bottom: 21px;
-    padding: 0 222px;
+    color: #000;
+font-family: Tinos;
+font-size: 54px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 .history_p_tit{
     color: #656363;
@@ -390,16 +401,30 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-
+.history_right{
+    justify-content: space-between;
+}
+.history_div{
+    position: relative;
+}
+.history_1_img{
+    position: absolute;
+    z-index: 999;
+    top: 54px;
+    left: 211px;
+}
 .history_2_img{
     position: absolute;
-    left: 600px;
+    z-index: 999;
+    top: -92px;
+    left: 383px;
 }
 .history_3_img{
     position: absolute;
-    left:  900px;
+    z-index: 999;
+    top: 54px;
+    left: 211px;
 }
-
 .card_h3 {
     color: #BC9060;
     font-family: Tinos;
@@ -439,12 +464,4 @@ line-height: normal;
 .card:hover {
     box-shadow: 0px 0px 18px 0px rgba(85, 83, 83, 0.25);
 }
-.history_div{
-    width: 212px;
-height: 164px;
-background: #FFE8D0;
-}
-.history_1_img{
-    position: absolute;
-    z-index: -10;
-}
+
